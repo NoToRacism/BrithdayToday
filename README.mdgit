@@ -1,0 +1,2 @@
+"# BrithdayToday"  initgit add README.mdgit commit -m "first commit Birthday Today"git branch -M maingit remote add origin https://github.com/NoToRacism/BrithdayToday.gitgit push -u origin main
+"# BrithdayToday"  initgit add README.mdgit commit -m "first commit Birthday Today"git branch -M maingit remote add origin https://github.com/NoToRacism/BrithdayToday.gitgit push -u origin main
